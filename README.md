@@ -1,6 +1,3 @@
-# -AI_GroupProject
-
-# -AI_GroupProject
 
 # AI_GroupProject_ARI711S
 
