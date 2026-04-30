@@ -11,7 +11,7 @@ The project is divided into three parts, each exploring a different area of AI:
 
 
 ##  Group Members
-- **Elsa Kumwimba** - Part 1 (Data loading + neighbors function), Team Lead, Notebook merge & documentation  
+- **Elsa ** - Part 1 (Data loading + neighbors function), Team Lead, Notebook merge & documentation  
 - **Lourena** - Part 1 (Shortest path search)  
 - **Juliette** - Part 2 (Node consistency + AC-3 algorithm)  
 - **Rejoice** - Part 2 (MRV heuristic + Backtracking with forward checking)  
