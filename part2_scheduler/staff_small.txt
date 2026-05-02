@@ -1,0 +1,13 @@
+# staff_small.txt
+Kamati R	Monday
+Swartbooi I	Tuesday
+Mudge D
+Naruseb J	Wednesday
+Eigowab S	Friday
+Beukes D	Saturday
+Kahuure K
+Hanse-Himarwa K	Thursday
+Mwandingi F	Sunday
+Iivula-Ithana P
+Gaweseb T	Friday
+Kambonde A	Monday	Wednesday
